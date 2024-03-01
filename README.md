@@ -14,9 +14,12 @@ These sub-projects can be accessed at their individual repositories:
 The ONMI Technical Steering Team (TST) includes the following members:
 - Lyndon Ong (Ciena) - TST Chair
 - Italo Busi (Huawei)
+- Ramon Casellas (CTTC)
 - Nigel Davis (Ciena)
 - Thorsten Heinze (Telefonica)
 - Kam Lam (FibreHome USA)
-- Arturo Mayoral (Meta/TIP MUST)
 - Andrea Mazzini (Nokia)
+- Arturo Mayoral (TIP)
+- Karthik Sethuraman (NEC)
+- Martin Skorupski (HighStreet)
 - Tracy Van Brakle (ATT)
